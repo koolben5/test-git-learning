@@ -6,6 +6,6 @@ def factorial(n):
         return 1
     return n * factorial(n - 1)
 
-    # Calculate factorial of 10
+# test 2 Calculate factorial of 10
 result = factorial(10)
 print(result)
